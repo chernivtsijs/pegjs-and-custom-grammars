@@ -1,0 +1,5 @@
+img/keyframes*
+img/converter.sh
+img/**.dot
+dump.txt
+sample/node_modules
