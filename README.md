@@ -1,7 +1,9 @@
 # Peg.js and writing custom grammar parser
 
-Slides and samples from [ChernivtsiJS](http://chernivtsi.js.org/) talk by [@sudodoki](github.com/sudodoki).
+> [**ChernivtsiJS #3**](http://chernivtsi.js.org/), June 10, 2017
 
-This is a copy. Upstream is here – https://github.com/sudodoki/slides/tree/gh-pages/che-parser
+Slides for the talk “Peg.js and writing custom grammar parser”. Some grammars and code samples are in [sample](https://github.com/chernivtsijs/pegjs-and-custom-grammars-che-17/tree/gh-pages/sample) directory.
 
-Some grammars and code samples are in [sample](https://github.com/chernivtsijs/pegjs-and-custom-grammars-che-17/tree/gh-pages/sample) directory.
+**Upstream:** https://github.com/sudodoki/slides/tree/gh-pages/che-parser
+
+
